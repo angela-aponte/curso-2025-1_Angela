@@ -1,0 +1,8 @@
+.section data
+mensaje:.string "Hola mundo\n"
+
+.section text
+.global _start
+
+_start:
+#
